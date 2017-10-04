@@ -108,6 +108,7 @@ void insertFront(){
 void insertRear(){
 	int item;
 
+	
 	if(isFull()){
 		printf("Dequeue Overflow:\n");
 	}else{
