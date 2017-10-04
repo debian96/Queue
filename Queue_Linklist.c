@@ -84,6 +84,7 @@ void enqueue(){
        	else
        		rear->next = p;
 
+		
        	rear = p;	
 
     }  	
