@@ -20,7 +20,6 @@ int main(){
 	int choice;
 
 	while(1){
-
 		printf("\n---------------------------------------\n");
                 printf("\n 1.Enqueue     \n");
                 printf("\n 2.Dequeue   \n");
